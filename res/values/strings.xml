@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Example Media Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="description">Media Controls</string>
+    <string-array name="deals">
+        <item >MOVIE1</item>
+        <item >MOVIES2</item>
+        <item >MOVIES3</item>
+        <item >MOVIES4</item>
+        <item >MOVIESD5</item>
+        <item >MOVIE1</item>
+        <item >MOVIES2</item>
+        <item >MOVIES3</item>
+        <item >MOVIES4</item>
+        <item >MOVIESD5</item>
+        <item >MOVIE1</item>
+        <item >MOVIES2</item>
+        <item >MOVIES3</item>
+        <item >MOVIES4</item>
+        <item >MOVIESD5</item>
+        
+    </string-array>
+
+</resources>
